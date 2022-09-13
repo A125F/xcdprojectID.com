@@ -1,9 +1,7 @@
 # xcdprojectID.com
-## Supported Versions
+## About Us
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
-
+xcdprojectID is a Free Mobile Application and website that provides a lot of understanding or material about Hacking, Networking, Programming, Technology, Security, and many more.
 | Version | Supported          |
 | ------- | ------------------ |
 | 5.1.x   | :white_check_mark: |
